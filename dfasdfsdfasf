@@ -1,0 +1,66 @@
+=> 
+[[32m#<Event:0x0000019ee7cf28f8[0m
+  id: [34m[1m9[0m,
+  name: [31m[1m"[0m[31mCoding Ninjas[0m[31m[1m"[0m,
+  location: [31m[1m"[0m[31mSan Diego, CA[0m[31m[1m"[0m,
+  price: [35m[1m0.25e2[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:24:21.191239000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:24:21.191239000 UTC +00:00,
+  starts_at:
+   Sat, 17 Feb 2024 06:24:21.050607000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mWhy ninjas? We have no idea, but the icon is cool. Don't miss this opportunity to show off your ninja moves.[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Event:0x0000019ee980f3c0[0m
+  id: [34m[1m1[0m,
+  name: [31m[1m"[0m[31mBugSmash[0m[31m[1m"[0m,
+  location: [31m[1m"[0m[31mDenver, CO[0m[31m[1m"[0m,
+  price: [35m[1m0.0[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:24:21.108730000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:24:21.108730000 UTC +00:00,
+  starts_at:
+   Fri, 08 Mar 2024 06:24:21.047789000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mJoin us for a fun evening of bug smashing! It's a great way to get involved in open source projects whether you're reporting bugs, fixing bugs, or even creating a few bugs![0m[31m[1m"[0m[32m>[0m,
+ [32m#<Event:0x0000019ee980f280[0m
+  id: [34m[1m2[0m,
+  name: [31m[1m"[0m[31mHackathon[0m[31m[1m"[0m,
+  location: [31m[1m"[0m[31mAustin, TX[0m[31m[1m"[0m,
+  price: [35m[1m0.15e2[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:24:21.120086000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 18:50:28.521980000 UTC +00:00,
+  starts_at:
+   Sat, 23 Mar 2024 06:24:00.000000000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mGot an awesome app idea you've been itching to work on? Hunker down and hack away! This is an intense, focused day of hacking on anything you want. The entry fee goes toward a bounty of cash and prizes for winners in a variety of categories.[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Event:0x0000019ee980f140[0m
+  id: [34m[1m3[0m,
+  name: [31m[1m"[0m[31mKata Camp[0m[31m[1m"[0m,
+  location: [31m[1m"[0m[31mDallas, TX[0m[31m[1m"[0m,
+  price: [35m[1m0.75e2[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:24:21.132130000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:24:21.132130000 UTC +00:00,
+  starts_at:
+   Fri, 12 Apr 2024 06:24:21.049976000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mKata Camp is where developers go to practice their craft without interruptions. Skip the status reports and stand-up meetings of a typical project. Just get 'er done! Price includes a buffet lunch and a leather-bound journal to record your kata achievements.[0m[31m[1m"[0m[32m>[0m,
+ [32m#<Event:0x0000019ee980f000[0m
+  id: [34m[1m8[0m,
+  name: [31m[1m"[0m[31mDrone Zone[0m[31m[1m"[0m,
+  location: [31m[1m"[0m[31mMinneapolis, MN[0m[31m[1m"[0m,
+  price: [35m[1m0.0[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:24:21.183168000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:24:21.183168000 UTC +00:00,
+  starts_at:
+   Tue, 07 May 2024 06:24:21.050521000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mWhat happens when software and hardware geeks get together? Thing spin, whirl, and (possibly) collide! Everyone is welcome, whether you're new to hacking with drones and drone software, or have experience that reaches to the sky.[0m[31m[1m"[0m[32m>[0m]
